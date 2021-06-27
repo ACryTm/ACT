@@ -1,10 +1,10 @@
     "info": {
-        "url_png_icon_64x64": "http(s) url to pool icon; not animated; max 40kb",
-        "url_png_logo": "http(s) url to pool logo; not animated; max 50kb",
-        "location": "London, England",
+        "url_png_icon_64x64": "https://github.com/ACryTm/ACT/blob/55b142764693f3fe60be5e363c308173016850ec/ACT.png",
+        "url_png_logo": "https://github.com/ACryTm/ACT/blob/55b142764693f3fe60be5e363c308173016850ec/ACT.png",
+        "location": "Las Vegas, Nevada",
         "social": {
-            "twitter_handle": "AdapoolsO",
-            "telegram_handle": "adapools_ops",
+            "twitter_handle": "",
+            "telegram_handle": "",
             "facebook_handle": "",
             "youtube_handle": "",
             "twitch_handle": "",
@@ -14,45 +14,25 @@
         "company": {
             "name": "Company Name",
             "addr": "Street, Number",
-            "city": "London",
-            "country": "England",
-            "company_id": "123456789",
-            "vat_id": "GB123456789"
+            "city": "Las Vegas",
+            "country": "USA",
+            "company_id": "",
+            "vat_id": ""
         },
         "about": {
-            "me": "...",
-            "server": "Raspberry Pi Hosted at my Home in London 100MB up/down, solar energy.",
-            "company": "..."
+            "me": "",
+            "server": "",
+            "company": ""
         }
     },
     "my-pool-ids": {
-        "0": "0f292fcaa02b8b2f9b3c8f9fd8e0bb21abedb692a6d5058df3ef2735",
-        "1": "618ab17ec8ea7239b4ac0c826b667c599489e25524ce74841a29d510"
+        "0": "7b92c27d47addf920a4b74db73d99c8ebe06057c802b332d945077d1",
+        "1": ""
     },
     "when-satured-then-recommend": {
-        "0": "0f292fcaa02b8b2f9b3c8f9fd8e0bb21abedb692a6d5058df3ef2735",
-        "1": "618ab17ec8ea7239b4ac0c826b667c599489e25524ce74841a29d510"
+        "0": "18652168f6def2b2184bd8e0b1b9023fcc9d31edf3008714e3a18e3c",
+        "1": ""
     },
     "telegram-admin-handle": {
-        "0": "mnmnmnmnnmn"
-    },
-    "adapools_ext": {
-        "prometheus": {
-            "0": {
-                "name": "relay 1 eu",
-                "type": "relay",
-                "key": "example_get_own_on_adapools.org/connect"
-            },
-            "1": {
-                "name": "relay 2 usa",
-                "type": "relay",
-                "key": "example_get_own_on_adapools.org/connect"
-            },
-            "2": {
-                "name": "block producer home",
-                "type": "bp",
-                "key": "example_get_own_on_adapools.org/connect"
-            }
-        }
-    }
+        "0": ""
 }
