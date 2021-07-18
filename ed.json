@@ -1,14 +1,14 @@
 {
     "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/ACcryTm/ACT/main/ed.json",
     "info": {
-        "url_png_icon_64x64": "https://github.com/ACryTm/ACT/blob/55b142764693f3fe60be5e363c308173016850ec/ACT.png",
-        "url_png_logo": "https://github.com/ACryTm/ACT/blob/55b142764693f3fe60be5e363c308173016850ec/ACT.png",
+        "url_png_icon_64x64": "https://github.com/ACryTm/ACT/blob/38acd4e8fc5c2e488bb4c6dff2361722f156ae39/ACT-64Pixels.png",
+        "url_png_logo": "https://github.com/ACryTm/ACT/blob/b16441280cfff06b68f80e7d59272f98d8692f84/ACT-Cropped.png",
         "location": "Las Vegas, Nevada",
         "social": {
             "twitter_handle": "@act_pool",
             "telegram_handle": "",
             "facebook_handle": "",
-            "youtube_handle": "@Advanced Crypto Team",
+            "youtube_handle": "https://www.youtube.com/channel/UCMB9yGj-0Wva02tsj8W2Ggg",
             "twitch_handle": "",
             "discord_handle": "",
             "github_handle": "",
