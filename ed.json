@@ -1,3 +1,5 @@
+{
+    "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/ACcryTm/ACT/main/ed.json",
     "info": {
         "url_png_icon_64x64": "https://github.com/ACryTm/ACT/blob/55b142764693f3fe60be5e363c308173016850ec/ACT.png",
         "url_png_logo": "https://github.com/ACryTm/ACT/blob/55b142764693f3fe60be5e363c308173016850ec/ACT.png",
@@ -35,5 +37,25 @@
         "1": ""
     },
     "telegram-admin-handle": {
-        "0": ""
+        "0": "your_tg_handle"
+    },
+    "adapools_ext": {
+        "prometheus": {
+            "0": {
+                "name": "relay 1 eu",
+                "type": "relay",
+                "key": "example_get_own_on_adapools.org/connect"
+            },
+            "1": {
+                "name": "relay 2 usa",
+                "type": "relay",
+                "key": "example_get_own_on_adapools.org/connect"
+            },
+            "2": {
+                "name": "block producer home",
+                "type": "bp",
+                "key": "example_get_own_on_adapools.org/connect"
+            }
+        }
+    }
 }
