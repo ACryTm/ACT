@@ -3,17 +3,18 @@
         "url_png_logo": "https://github.com/ACryTm/ACT/blob/55b142764693f3fe60be5e363c308173016850ec/ACT.png",
         "location": "Las Vegas, Nevada",
         "social": {
-            "twitter_handle": "",
+            "twitter_handle": "@act_pool",
             "telegram_handle": "",
             "facebook_handle": "",
-            "youtube_handle": "",
+            "youtube_handle": "@Advanced Crypto Team",
             "twitch_handle": "",
             "discord_handle": "",
-            "github_handle": ""
+            "github_handle": "",
+            "instagram_handle": "Advanced_crypto_team"
         },
         "company": {
-            "name": "Company Name",
-            "addr": "Street, Number",
+            "name": "Advanced Crypto Team",
+            "addr": "",
             "city": "Las Vegas",
             "country": "USA",
             "company_id": "",
