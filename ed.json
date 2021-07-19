@@ -1,7 +1,7 @@
 {
     "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/ACcryTm/ACT/main/ed.json",
     "info": {
-        "url_png_icon_64x64": "https://github.com/ACryTm/ACT/blob/38acd4e8fc5c2e488bb4c6dff2361722f156ae39/ACT-64Pixel.png",
+        "url_png_icon_64x64": "<blockquote class="imgur-embed-pub" lang="en" data-id="a/ckoFDCS" data-context="false" ><a href="//imgur.com/a/ckoFDCS"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>",
         "url_png_logo": "https://github.com/ACryTm/ACT/blob/b16441280cfff06b68f80e7d59272f98d8692f84/ACT-Cropped.png",
         "location": "Las Vegas, Nevada",
         "social": {
